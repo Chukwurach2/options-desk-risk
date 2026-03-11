@@ -1,4 +1,4 @@
-from src.margin_account import MarginAccount
+from ch02_futures_markets.src.margin_account import MarginAccount
 
 
 def test_margin_call():

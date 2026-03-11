@@ -1,4 +1,4 @@
-from src.futures_contract import FuturesContract
+from ch02_futures_markets.src.futures_contract import FuturesContract
 
 
 def test_long_pnl():
