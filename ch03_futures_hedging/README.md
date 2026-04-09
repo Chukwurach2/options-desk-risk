@@ -37,7 +37,3 @@ These mechanics show up across commodities, rates, FX, and equity index overlays
 - basis risk
 - cross-hedging
 - stack-and-roll intuition
-
-## Next Topics
-
-Later chapters build from this foundation into forward/futures pricing, interest rate futures, and dynamic hedging.
