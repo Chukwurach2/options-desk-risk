@@ -8,7 +8,7 @@ This chapter artifact implements core hedging mechanics using futures:
 - Cross-hedging logic
 - Stack-and-roll exposure over time
 
-Chapter 3 focuses on how futures can be used to reduce price risk, while recognizing that real hedges are rarely perfect because of basis risk and contract mismatch. :contentReference[oaicite:1]{index=1}
+Chapter 3 focuses on how futures can be used to reduce price risk, while recognizing that real hedges are rarely perfect because of basis risk and contract mismatch
 
 ## Why this matters for desk risk
 
